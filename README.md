@@ -1,4 +1,4 @@
-# bachelor_thesis_ROS_arduino_braccio
+# Bachelor_Thesis: "Arduino Braccio and use of the ROS framework for the development of new RFID functionalities"
 
 https://www.youtube.com/watch?v=DEiugQy9lIM
 
