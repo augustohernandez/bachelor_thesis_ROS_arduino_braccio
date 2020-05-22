@@ -1,4 +1,4 @@
-# Bachelor Thesis on the integration of the Arduino robotic arm Braccio into ROS and RFID.
+# Bachelor Thesis on the integration of the Arduino robotic arm Braccio into a ROS framework and RFID.
 
 https://www.youtube.com/watch?v=DEiugQy9lIM
 
