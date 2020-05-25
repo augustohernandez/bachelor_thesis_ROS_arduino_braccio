@@ -1,4 +1,4 @@
-# Bachelor Thesis on the integration of the Arduino robotic arm Braccio into a ROS framework and PLC SIEMENS S7 1200.
+# Bachelor Thesis on the integration of Arduino robotic arm Braccio into a ROS framework and PLC SIEMENS S7 1200.
 
 
 
