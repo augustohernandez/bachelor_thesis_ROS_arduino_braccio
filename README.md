@@ -7,7 +7,7 @@
 ## Hardware Architecture:
 
 
-![Hardware_architecture](https://user-images.githubusercontent.com/34940932/83359413-6390e800-a37a-11ea-9a24-6591444c0e16.jpeg)
+![Hardware_architecture](https://user-images.githubusercontent.com/34940932/93854574-4af46700-fcb6-11ea-9840-35b2e274881b.jpeg)
 
 ## Software:
 
